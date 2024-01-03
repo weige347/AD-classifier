@@ -21,7 +21,7 @@ This code requires
 
 ## 3. Data
 
- In the data folder, we provide the 97 think features we used on the training as well as the test dataset.20 cases in train and 13 cases in test.
+ In the data folder, we provide the 97  features we used on the training as well as the test dataset.20 cases in train and 13 cases in test.
 
 
 
