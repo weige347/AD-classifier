@@ -1,4 +1,4 @@
-# Pineal gland in Alzheimer's disease[ArXiv]()
+# Pineal gland in Alzheimer's disease
 
 
 
