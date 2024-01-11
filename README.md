@@ -1,12 +1,12 @@
-# 论文题目 [ArXiv]()
+# Pineal gland in Alzheimer's disease[ArXiv]()
 
 
 
-Three experiments in our article
+Machine-Learning Algorithms in the research 
 
-1. exp1
-2. exp2
-3. exp3
+1. Pineal gland radiomics.
+2. Serum metallomics in classifying NC and AD.
+3. Serum metallomics in predicting MMSE and MOCA scores.
 
 
 
