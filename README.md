@@ -4,9 +4,9 @@
 
 Machine-Learning Algorithms in the research 
 
-1. Pineal gland radiomics.
-2. Serum metallomics in classifying NC and AD.
-3. Serum metallomics in predicting MMSE and MOCA scores.
+1. Pineal gland radiomics (exp1).
+2. Serum metallomics in classifying NC and AD (exp2).
+3. Serum metallomics in predicting MMSE and MOCA scores (exp3).
 
 
 
